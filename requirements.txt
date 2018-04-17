@@ -1,0 +1,16 @@
+
+flask
+Flask-WTF
+Flask-SQLAlchemy
+Flask-Migrate
+Flask-Login
+psycopg2
+gunicorn
+alpha-vantage
+numpy
+sklearn
+keras
+h5py
+deepy
+pandas
+matplotlib
